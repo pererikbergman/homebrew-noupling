@@ -1,8 +1,8 @@
 class Noupling < Formula
   desc "Architecture auditing CLI that detects coupling violations and circular dependencies"
   homepage "https://github.com/pererikbergman/noupling"
-  url "https://github.com/pererikbergman/noupling/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "f812b5e3bd88c3d989c82e22782f01af2ee382c1d201fd71c6709637ef130bbe"
+  url "https://github.com/pererikbergman/noupling/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "93c95e2f8b254477f7fe0f6c53dd5291b10ed24a17c2710234024dec6c84a8a5"
   license "MIT"
 
   depends_on "rust" => :build
